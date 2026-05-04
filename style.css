@@ -1,3 +1,23 @@
 body {
-  background-color: lightblue;
+  background-color: #f9f9f9;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #2c3e6b;
+  color: white;
+  padding: 40px;
+  text-align: center;
+}
+
+main {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+h2 {
+  color: #2c3e6b;
 }
